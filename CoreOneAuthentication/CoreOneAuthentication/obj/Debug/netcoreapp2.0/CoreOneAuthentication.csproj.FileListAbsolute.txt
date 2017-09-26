@@ -1,0 +1,11 @@
+D:\CoreAuthentication\CoreOneAuthentication\CoreOneAuthentication\bin\Debug\netcoreapp2.0\CoreOneAuthentication.deps.json
+D:\CoreAuthentication\CoreOneAuthentication\CoreOneAuthentication\bin\Debug\netcoreapp2.0\CoreOneAuthentication.runtimeconfig.json
+D:\CoreAuthentication\CoreOneAuthentication\CoreOneAuthentication\bin\Debug\netcoreapp2.0\CoreOneAuthentication.runtimeconfig.dev.json
+D:\CoreAuthentication\CoreOneAuthentication\CoreOneAuthentication\bin\Debug\netcoreapp2.0\CoreOneAuthentication.dll
+D:\CoreAuthentication\CoreOneAuthentication\CoreOneAuthentication\bin\Debug\netcoreapp2.0\CoreOneAuthentication.pdb
+D:\CoreAuthentication\CoreOneAuthentication\CoreOneAuthentication\obj\Debug\netcoreapp2.0\CoreOneAuthentication.csprojResolveAssemblyReference.cache
+D:\CoreAuthentication\CoreOneAuthentication\CoreOneAuthentication\obj\Debug\netcoreapp2.0\CoreOneAuthentication.csproj.CoreCompileInputs.cache
+D:\CoreAuthentication\CoreOneAuthentication\CoreOneAuthentication\obj\Debug\netcoreapp2.0\CoreOneAuthentication.AssemblyInfoInputs.cache
+D:\CoreAuthentication\CoreOneAuthentication\CoreOneAuthentication\obj\Debug\netcoreapp2.0\CoreOneAuthentication.AssemblyInfo.cs
+D:\CoreAuthentication\CoreOneAuthentication\CoreOneAuthentication\obj\Debug\netcoreapp2.0\CoreOneAuthentication.dll
+D:\CoreAuthentication\CoreOneAuthentication\CoreOneAuthentication\obj\Debug\netcoreapp2.0\CoreOneAuthentication.pdb
